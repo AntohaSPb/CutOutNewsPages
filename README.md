@@ -28,6 +28,7 @@ Workflow
 Results
 
 In the examples below the thin red line is a product of AI processing:
+
 ![DSC0386](https://github.com/user-attachments/assets/17dc3688-1a01-4211-aa98-8ae650587e78)
 ![DSC04569](https://github.com/user-attachments/assets/d10e8cee-09ea-4dfc-8459-e7bea0cc9a5c)
 ![DSC0390](https://github.com/user-attachments/assets/a0db30cf-778f-46b7-a5f0-bbf3a455fea5)
