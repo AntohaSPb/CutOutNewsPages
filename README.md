@@ -5,7 +5,7 @@ The code presented here aims at flexible cv2 & PyTorch-based parametrized extrac
 The following tutorials were useful to learn how to apply AI for image processing:
 1. https://github.com/spmallick/learnopencv/tree/master/Document-Scanner-Custom-Semantic-Segmentation-using-PyTorch-DeepLabV3 (tutorial is here https://learnopencv.com/deep-learning-based-document-segmentation-using-semantic-segmentation-deeplabv3-on-custom-dataset/)
 2. https://github.com/Koldim2001/Unet-pytorch-training (tutorial is here https://www.youtube.com/watch?v=zpyzBR3MuT0)
-3. https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects (tutorial is here)
+3. https://github.com/murtazahassan/Document-Scanner (tutorial is here https://www.youtube.com/watch?v=ON_JubFRw8M)
 
 Ground truth segmentation for training done using https://app.cvat.ai/
 IDEs used - VScode & Pycharm
